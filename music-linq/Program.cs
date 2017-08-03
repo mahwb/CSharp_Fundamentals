@@ -19,19 +19,19 @@ namespace ConsoleApplication
 
             //There is only one artist in this collection from Mount Vernon, what is their name and age?
             Artist foundMt = Artists.Where(artist => artist.Hometown == "Mount Vernon").Single();
-            System.Console.WriteLine("{0} from Mount Vernon is {1} years old.", foundMt.ArtistName, foundMt.Age);
+            System.Console.WriteLine($"{foundMt.ArtistName} from Mount Vernon is {foundMt.Age} years old.");
             //Who is the youngest artist in our collection of artists?
             Artist foundY = Artists.OrderBy(artist => artist.Age).First();
-            System.Console.WriteLine("{0} is youngest.", foundY.ArtistName);
+            System.Console.WriteLine($"{foundY.ArtistName} is youngest.");
             //Display all artists with 'William' somewhere in their real name
             List<Artist> foundWill = Artists.Where(artist => artist.RealName.Contains("William")).ToList();
             foreach (Artist person in foundWill) {
-                System.Console.WriteLine("Found {0}.", person.RealName);
+                System.Console.WriteLine($"Found {person.RealName}.");
             }
             //Display the 3 oldest artist from Atlanta
             List<Artist> three_old  = Artists.Where(artist => artist.Hometown == "Atlanta").OrderByDescending(artist => artist.Age).Take(3).ToList();
             foreach (Artist person in three_old) {
-                System.Console.WriteLine("One of the three oldest from Atlanta is {0}.", person.RealName);
+                System.Console.WriteLine($"One of the three oldest from Atlanta is {person.RealName}.");
             }
             //(Optional) Display the Group Name of all groups that have members that are not from New York City
             List<string> foundNYC = Artists
@@ -41,7 +41,7 @@ namespace ConsoleApplication
                 .Distinct()
                 .ToList();
             foreach (var group in foundNYC) {
-                System.Console.WriteLine("Group not from NYC is {0}", group);
+                System.Console.WriteLine($"Group not from NYC is {group}");
             }
             //(Optional) Display the artist names of all members of the group 'Wu-Tang Clan'
             Group foundWTC = Groups
@@ -49,7 +49,7 @@ namespace ConsoleApplication
                 .GroupJoin(Artists, group => group.Id, artist => artist.GroupId, (group, artists) => { group.Members = artists.ToList(); return group; })
                 .Single();
             foreach (Artist member in foundWTC.Members) {
-                System.Console.WriteLine("Member of Wu-Tang Clan is {0}", member.ArtistName);
+                System.Console.WriteLine($"Member of Wu-Tang Clan is {member.ArtistName}");
             }
         }   
     }
