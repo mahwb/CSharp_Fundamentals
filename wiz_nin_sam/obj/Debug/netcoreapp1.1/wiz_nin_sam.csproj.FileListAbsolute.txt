@@ -1,0 +1,8 @@
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\wiz_nin_sam\bin\Debug\netcoreapp1.1\wiz_nin_sam.deps.json
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\wiz_nin_sam\bin\Debug\netcoreapp1.1\wiz_nin_sam.runtimeconfig.json
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\wiz_nin_sam\bin\Debug\netcoreapp1.1\wiz_nin_sam.runtimeconfig.dev.json
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\wiz_nin_sam\bin\Debug\netcoreapp1.1\wiz_nin_sam.dll
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\wiz_nin_sam\bin\Debug\netcoreapp1.1\wiz_nin_sam.pdb
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\wiz_nin_sam\obj\Debug\netcoreapp1.1\wiz_nin_sam.AssemblyInfo.cs
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\wiz_nin_sam\obj\Debug\netcoreapp1.1\wiz_nin_sam.dll
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\wiz_nin_sam\obj\Debug\netcoreapp1.1\wiz_nin_sam.pdb

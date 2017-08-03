@@ -1,0 +1,8 @@
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\box_unbox\bin\Debug\netcoreapp1.1\box_unbox.deps.json
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\box_unbox\bin\Debug\netcoreapp1.1\box_unbox.runtimeconfig.json
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\box_unbox\bin\Debug\netcoreapp1.1\box_unbox.runtimeconfig.dev.json
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\box_unbox\bin\Debug\netcoreapp1.1\box_unbox.dll
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\box_unbox\bin\Debug\netcoreapp1.1\box_unbox.pdb
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\box_unbox\obj\Debug\netcoreapp1.1\box_unbox.AssemblyInfo.cs
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\box_unbox\obj\Debug\netcoreapp1.1\box_unbox.dll
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\box_unbox\obj\Debug\netcoreapp1.1\box_unbox.pdb

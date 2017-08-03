@@ -1,0 +1,8 @@
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\animals\bin\Debug\netcoreapp1.1\animals.deps.json
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\animals\bin\Debug\netcoreapp1.1\animals.runtimeconfig.json
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\animals\bin\Debug\netcoreapp1.1\animals.runtimeconfig.dev.json
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\animals\bin\Debug\netcoreapp1.1\animals.dll
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\animals\bin\Debug\netcoreapp1.1\animals.pdb
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\animals\obj\Debug\netcoreapp1.1\animals.AssemblyInfo.cs
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\animals\obj\Debug\netcoreapp1.1\animals.dll
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\animals\obj\Debug\netcoreapp1.1\animals.pdb

@@ -1,0 +1,8 @@
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\mysql\bin\Debug\netcoreapp1.1\mysql.deps.json
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\mysql\bin\Debug\netcoreapp1.1\mysql.runtimeconfig.json
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\mysql\bin\Debug\netcoreapp1.1\mysql.runtimeconfig.dev.json
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\mysql\obj\Debug\netcoreapp1.1\mysql.AssemblyInfo.cs
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\mysql\bin\Debug\netcoreapp1.1\mysql.dll
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\mysql\bin\Debug\netcoreapp1.1\mysql.pdb
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\mysql\obj\Debug\netcoreapp1.1\mysql.dll
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\mysql\obj\Debug\netcoreapp1.1\mysql.pdb

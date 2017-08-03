@@ -1,0 +1,8 @@
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\terminal_rpg\bin\Debug\netcoreapp1.1\terminal_rpg.deps.json
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\terminal_rpg\bin\Debug\netcoreapp1.1\terminal_rpg.runtimeconfig.json
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\terminal_rpg\bin\Debug\netcoreapp1.1\terminal_rpg.runtimeconfig.dev.json
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\terminal_rpg\obj\Debug\netcoreapp1.1\terminal_rpg.AssemblyInfo.cs
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\terminal_rpg\bin\Debug\netcoreapp1.1\terminal_rpg.dll
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\terminal_rpg\bin\Debug\netcoreapp1.1\terminal_rpg.pdb
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\terminal_rpg\obj\Debug\netcoreapp1.1\terminal_rpg.dll
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\terminal_rpg\obj\Debug\netcoreapp1.1\terminal_rpg.pdb

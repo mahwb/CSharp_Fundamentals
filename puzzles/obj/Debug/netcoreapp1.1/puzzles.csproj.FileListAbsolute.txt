@@ -1,0 +1,8 @@
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\puzzles\bin\Debug\netcoreapp1.1\puzzles.deps.json
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\puzzles\bin\Debug\netcoreapp1.1\puzzles.runtimeconfig.json
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\puzzles\bin\Debug\netcoreapp1.1\puzzles.runtimeconfig.dev.json
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\puzzles\obj\Debug\netcoreapp1.1\puzzles.AssemblyInfo.cs
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\puzzles\bin\Debug\netcoreapp1.1\puzzles.dll
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\puzzles\bin\Debug\netcoreapp1.1\puzzles.pdb
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\puzzles\obj\Debug\netcoreapp1.1\puzzles.dll
+C:\Users\Byron\Desktop\DojoAssignments\netCore\C# Fundamentals\puzzles\obj\Debug\netcoreapp1.1\puzzles.pdb
